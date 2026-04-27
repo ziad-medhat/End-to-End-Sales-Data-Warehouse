@@ -1,7 +1,7 @@
 # End-to-End-Sales-Data-Warehouse
 An end-to-end Business Intelligence solution featuring a custom-built SQL Server data warehouse (star schema) and an interactive Power BI dashboard for retail sales analytics.
 
-# Route Sales Analytics & Business Intelligence Dashboard
+# Retail-Performance Analytics & Business Intelligence Dashboard
 
 ## 📌 Project Overview
 This project showcases an end-to-end Business Intelligence solution, starting from robust database management and architecture to interactive data visualization. Built as a graduation project, it analyzes retail sales performance across multiple years (2017-2018) to uncover trends in product performance, customer behavior, and store efficiency. 
