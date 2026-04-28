@@ -22,7 +22,7 @@ The data warehouse is built using a dimensional modeling approach (Star Schema) 
     * `Dim_Stores` (Location and store attributes)
 
 ## 📊 Dashboard Highlights
-*(Add a brief sentence here about what your dashboard shows, e.g., "The Power BI dashboard provides a high-level executive summary of revenue, year-over-year growth, and regional performance.")*
+
 
 Here are a few views of the dashboard and data model:
 
