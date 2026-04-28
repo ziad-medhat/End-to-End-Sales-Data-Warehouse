@@ -55,5 +55,3 @@ To run this project locally on your machine:
 3. If prompted, update the data source settings to point to your local SQL Server instance where you just built the database.
 4. Refresh the data to populate the visuals.
 
-## 🤝 Connect
-Feel free to reach out if you have any questions about the database architecture, the SQL queries used, or the Power BI visualizations.
